@@ -1,10 +1,12 @@
 import { Button } from "@mui/material";
 import React from "react";
+import Nav from "./Nav";
 
 
 export default function Content(){
 
     return (
+        
         <article>
             <section>    
                 지난해 12·3 비상계엄 사태를 계기로 급등한 원·달러 환율이 상반기에 이어 올해 하반기 물가도 끌어올릴 것으로 전망된다. 비상계엄으로 촉발된 정치적 혼란이 뒤늦게 소비자에게 ‘물가 부담’이라는 청구서로 돌아오고 있는 셈이다.
